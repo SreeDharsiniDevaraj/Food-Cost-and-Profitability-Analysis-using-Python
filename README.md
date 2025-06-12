@@ -18,10 +18,10 @@ The dataset, sourced from 'Statso's Optimizing Cost and Profitability: Case Stud
 ## Analysis
 
 1. Gather comprehensive data related to all aspects of food delivery operations.
-2. Clean the dataset for inconsistencies, missing values, or irrelevant information.
+2. Clean the dataset for inconsistencies, missing values or irrelevant information.
 3. Extract relevant features that could impact Cost and Profitability.
 4. Break down the Costs associated with each order, including fixed costs (like Packaging) and variable costs (like Delivery fee and Discounts).
-5. Determine the Revenue generated from each order, focusing on Commission Fees.
-6.For each order, calculate the profit by subtracting the Total Costs from the Revenue. Analyze the distribution of profitability across all orders to identify trends.
-7.Based on the Cost and Profitability analysis, develop Strategic Recommendations aimed at enhancing profitability.
-8.Use the data to simulate the financial impact of proposed changes, such as adjusting Discount and Commission Rates.
+5. Determine the Revenue generated from each order focusing on Commission Fees
+6. For each order, calculate the Profit by subtracting the Total Costs from the Revenue. Analyze the distribution of profitability across all orders to identify trends.
+7. Based on the Cost and Profitability analysis, develop Strategic Recommendations aimed at enhancing profitability.
+8. Use the data to simulate the financial impact of proposed changes, such as adjusting Discount and Commission Rates.
